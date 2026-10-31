@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Customer Analytics
+# 🛒 Online Retail Analytics
 
 An end-to-end data analytics project focused on understanding **e-commerce sales performance, customer behavior, product performance, and returns** using transaction-level retail data.
 
